@@ -12,7 +12,7 @@ int main()
     {
         string A, B, C, c;
         ll N, hash[26] {};
-        cin >> A >> B >> N
+        cin >> A >> B >> N;
 
         A.append(B);
         while(N--) {
