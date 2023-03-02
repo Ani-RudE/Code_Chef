@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/GitHub_Repositories/Code_Chef",
-      "program": "d:/GitHub_Repositories/Code_Chef/build/Debug/outDebug",
+      "cwd": "d:/GitHub_Repositories/Code_Chef/!",
+      "program": "d:/GitHub_Repositories/Code_Chef/!/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
